@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287989231",
+    "project_id": "safewings-sos",
+    "storage_bucket": "safewings-sos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287989231:android:bce032936bf166e4462a1a",
+        "android_client_info": {
+          "package_name": "com.example.safe_wings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzSHXqAUJrDbr9a4mws8JM6LRa4fnaNXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
